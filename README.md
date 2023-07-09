@@ -1,4 +1,4 @@
-# D&C_Herobrine 
+# PD_Wither 
 
 **Número da Lista**: 5 <br>
 **Conteúdo da Disciplina**: Programação Dinâmica <br>
@@ -14,19 +14,19 @@
 
 ## Screenshots
 
-Execução da [Questão-215 LeetCode]() em x<br>
+Execução da [Questão x]() em x<br>
 
 
 
-Execução da [Questão-932 LeetCode]() em x <br>
+Execução da [Questão x]() em x <br>
 
 
 
-Execução da [Questão - 1088 BeeCrowd]() em x <br>
+Execução da [Questão x]() em x <br>
 
 
 
-Execução da [Questão - 16 LeetCode]() em x <br>
+Execução da [Questão x]() em x <br>
 
 
 
