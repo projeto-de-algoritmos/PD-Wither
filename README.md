@@ -1,4 +1,5 @@
 # PD_Wither 
+<img src= "https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/434e4a9a-1f7c-4102-9bc5-88c84809dcec" width = "30%" height = "30%">
 
 **Número da Lista**: 5 <br>
 **Conteúdo da Disciplina**: Programação Dinâmica <br>
@@ -14,7 +15,8 @@
 
 ## Screenshots
 
-Execução da [Questão x]() em x<br>
+Execução da [Questão - 1288](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
+![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/91952e2e-152e-4064-a88e-8b960278e7a9)
 
 
 
