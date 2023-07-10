@@ -15,7 +15,7 @@
 
 ## Screenshots
 
-Execução da [Questão - 1288](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
+Execução da [Questão 1288 - Canhão de Destruição](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
 ![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/91952e2e-152e-4064-a88e-8b960278e7a9)
 
 
