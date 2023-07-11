@@ -26,10 +26,12 @@ Execução da [Questão 2026 - Árvores de Natal (beecrowd)](https://github.com/
 
 
 Execução da [Questão 1502 - Can Make Arithmetic Progression From Sequence (leetcode)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Pablo/QuestoesPD) em C++ <br>
+![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/ec958bce-058b-4fc7-bb86-d7d91ab3acc3)
 
 
 
 Execução da [Questão 863 - All Nodes Distance K in Binary Tree (leetcode)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Pablo/QuestoesPD) em C++ <br>
+![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/5049bf03-cf53-4b41-aa74-7abadff36f97)
 
 
 
