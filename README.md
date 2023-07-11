@@ -15,32 +15,34 @@
 
 ## Screenshots
 
-Execução da [Questão 1288 - Canhão de Destruição(beecrowd)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
+Execução da [Questão 1288 - Canhão de Destruição (beecrowd)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
 ![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/91952e2e-152e-4064-a88e-8b960278e7a9)
 
 
 
-Execução da [Questão x]() em x <br>
+Execução da [Questão 2026 - Árvores de Natal (beecrowd)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao2) em Python <br>
+![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/2a0ab92c-a88a-470f-a40d-7fce813a7cf5)
 
 
 
-Execução da [Questão x]() em x <br>
+Execução da [Questão 1502 - Can Make Arithmetic Progression From Sequence (leetcode)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Pablo/QuestoesPD) em C++ <br>
 
 
 
-Execução da [Questão x]() em x <br>
+Execução da [Questão 863 - All Nodes Distance K in Binary Tree (leetcode)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Pablo/QuestoesPD) em C++ <br>
 
 
 
 ## Instalação 
 
 ### **Linguagens:** 
-C e C++
+C,C++ e Python
 
 ### **Pré-requisistos**
 * Ter instalado no seu computador as Linguagen:
     * C99 ou Acima
     * C++ 17 ou Acima
+    * Python 3.8 ou Acima
 
 ### **Comandos Necessários**
 * Para compilar as questões em C
@@ -55,6 +57,15 @@ g++ ./NomeCodigo.cpp
     * Ao compilar, automaticamente será gerada um executavel, basta executá-lo desta forma
 ```
 ./NomeExecutavel.exe
+```
+* Para executar as questões em python
+```
+python nome_do_codigo.py
+```
+
+* ou
+```
+python3 nome_do_codigo.py
 ```
 
 ## Uso 
