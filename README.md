@@ -11,11 +11,11 @@
 | 19/0096071  |  Thiago Oliveira Cunha |
 
 ## Sobre 
-- Neste trabalho buscamos aplicar os conhecimentos aprendidos em sala de aula sobre o tema Programação Dinâmica, em problemas de competição do juiz online beecrowd.
+- Neste trabalho buscamos aplicar os conhecimentos aprendidos em sala de aula sobre o tema Programação Dinâmica, em problemas de competição dos juizes online beecrowd e leetCode.
 
 ## Screenshots
 
-Execução da [Questão 1288 - Canhão de Destruição](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
+Execução da [Questão 1288 - Canhão de Destruição(beecrowd)](https://github.com/projeto-de-algoritmos/PD-Wither/tree/master/Thiago/Questao1288) em C<br>
 ![image](https://github.com/projeto-de-algoritmos/PD-Wither/assets/71983200/91952e2e-152e-4064-a88e-8b960278e7a9)
 
 
